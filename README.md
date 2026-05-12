@@ -3,7 +3,7 @@
 *Read this document in other languages:*
 [🇺🇸 English](README.en.md) | [🇧🇷 Português](README.md) | [🇪🇸 Español](README.es.md)
 
-</div>
+<br>
 
 # Augusto Narloch Cordeiro
 
@@ -36,23 +36,32 @@ Trabalhando atualmente com:
 # ⚡ Principais Tecnologias
 
 ## Front-End & Web
+Desenvolvimento de interfaces responsivas e de alta performance, com foco em arquiteturas estáticas (SSG), otimização de Core Web Vitals e experiências visuais ricas.
+
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Back-End & Scripting
+Criação de lógicas complexas de servidor, pontes com APIs externas e desenvolvimento de scripts procedurais escaláveis para jogos e aplicações dinâmicas.
+
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## CMS & Processamento de Mídia
+Modelagem de dados Headless e criação de pipelines automatizados para tratamento, proteção autoral dinâmica (watermarking) e entrega otimizada de mídias via CDN.
+
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ## Automação & IoT
-- ESP32 & ESP8266
-- Comunicação via protocolo MQTT
-- Automação Inteligente & Prototipagem de Sistemas Embarcados
+Prototipagem de sistemas embarcados, comunicação assíncrona de baixo nível e integração de hardware com sistemas web para automações residenciais e comerciais.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32_&_ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ---
 
