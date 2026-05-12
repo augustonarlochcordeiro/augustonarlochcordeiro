@@ -90,4 +90,4 @@ Sistema procedural avançado para servidores FiveM que integra eventos de transm
 # 📫 Contato
 
 - **GitHub:** [github.com/augustonarlochcordeiro](https://github.com/augustonarlochcordeiro)
-- **LinkedIn:** [linkedin.com/in/seu-perfil](#)
+- **LinkedIn:** [linkedin.com/in/augusto-narloch/](https://www.linkedin.com/in/augusto-narloch/)
