@@ -21,15 +21,15 @@
 
 # 🚀 Sobre Mim
 
-Combino uma forte base no mercado imobiliário com habilidades avançadas em desenvolvimento de software para construir aplicações web modernas, sistemas de automação e experiências digitais interativas.
+Sou Desenvolvedor de Software com formação em Tecnologia em Automação Industrial. Essa sólida base em integração de sistemas, eletrônica e lógica de baixo nível me deu uma perspectiva única sobre como a tecnologia se conecta, impulsionando minha paixão pela engenharia de software de ponta a ponta.
 
-Focado em desenvolvimento prático, projetos do mundo real e melhoria contínua. Minha posição única me permite entender profundamente a lógica de negócios (necessidades de corretores e clientes) e traduzi-la em soluções técnicas de alta performance.
+Meu foco é atuar como um engenheiro completo, capaz de arquitetar soluções robustas em todo o ciclo de vida do desenvolvimento. Acredito que um profissional de excelência não apenas escreve código, mas resolve problemas complexos de arquitetura, garantindo segurança, escalabilidade e performance — desde a modelagem de dados e integrações em nuvem até a entrega de interfaces web ultrarrápidas.
 
-Trabalhando atualmente com:
-- Plataformas Imobiliárias em arquitetura JAMStack
-- Sistemas procedurais interativos para FiveM & integração com transmissões ao vivo (TikTokLive)
-- Sistemas de Automação & IoT
-- Arquitetura Front-end e pipelines de processamento dinâmico de mídia
+Atualmente, busco a maestria tecnológica e a evolução contínua, expandindo minha infraestrutura de conhecimentos em:
+- **Arquitetura de Sistemas e Full-Stack:** Desenvolvimento de APIs robustas, arquiteturas Serverless/Microserviços, SSG e otimização extrema de performance (Core Web Vitals).
+- **Integração de Hardware e Cloud:** IoT, Automação Industrial, telemetria avançada via protocolos como MQTT e programação C/C++.
+- **Engenharia de Dados e Pipelines:** Modelagem em Headless CMS, processamento dinâmico de mídia e construção de arquiteturas web desacopladas.
+- **Lógica Procedural e Sistemas Interativos:** Desenvolvimento de back-ends complexos, automação com Python e Game Scripting com Lua para ecossistemas em tempo real.
 
 ---
 
