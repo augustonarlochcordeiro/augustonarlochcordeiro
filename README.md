@@ -64,8 +64,6 @@ Integração de eventos externos em tempo real para back-ends de servidores (Fiv
 
 ---
 
----
-
 # 🎓 Formação & Background
 
 - **Tecnólogo em Automação Industrial**
@@ -80,5 +78,5 @@ Integração de eventos externos em tempo real para back-ends de servidores (Fiv
 Estou sempre aberto a discutir arquitetura de software, novos desafios e oportunidades no mundo da tecnologia.
 
 - 💼 **LinkedIn:** [linkedin.com/in/augusto-narloch](https://www.linkedin.com/in/augusto-narloch/)
-- 📧 **E-mail:** [narlochaugusto@gmail.com](narlochaugusto@gmail.com)
+- 📧 **E-mail:** [narlochaugusto@gmail.com]((mailto:narlochaugusto@gmail.com))
 
