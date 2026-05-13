@@ -9,9 +9,9 @@
 
 ### Engenheiro de Software | Full-Stack | IoT & Sistemas Integrados
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-Projetos-black?style=for-the-badge)](https://github.com/augustonarlochcordeiro)
+[![Portfolio](https://img.shields.io/badge/Portfólio-Projetos-black?style=for-the-badge)](https://github.com/augustonarlochcordeiro?tab=repositories)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/augustonarlochcordeiro)
-[![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)](https://github.com/augustonarlochcordeiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-narloch/)
 
 </div>
 
