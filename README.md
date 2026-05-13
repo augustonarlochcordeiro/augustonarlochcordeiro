@@ -83,14 +83,21 @@ Integração de eventos externos em tempo real para back-ends de servidores (Fiv
 
 ---
 
-# 📊 Métricas & Contato
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=augustonarlochcordeiro&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustonarlochcordeiro&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens" height="150"/>
-</div>
+# 🎓 Formação & Background
 
-<br>
+- **Tecnólogo em Automação Industrial**
+  *Base acadêmica sólida em sistemas de controle, eletrônica, portas lógicas e integração de hardware.*
+- **Engenharia de Software (Autodidata / Prático)**
+  *Evolução contínua aplicando os conceitos matemáticos e lógicos da automação na arquitetura de sistemas web, integrações de APIs e ecossistemas Full-Stack escaláveis.*
+
+---
+
+# 📫 Vamos Conectar
+
+Estou sempre aberto a discutir arquitetura de software, novos desafios e oportunidades no mundo da tecnologia.
 
 - 💼 **LinkedIn:** [linkedin.com/in/augusto-narloch](https://www.linkedin.com/in/augusto-narloch/)
-- 📧 **E-mail:** [seu-email-aqui@gmail.com](mailto:seu-email-aqui@gmail.com)
+- 📧 **E-mail:** [narlochaugusto@gmail.com](narlochaugusto@gmail.com)
+
